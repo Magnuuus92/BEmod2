@@ -1,0 +1,14 @@
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\bin\Debug\net9.0\BEmod2.exe
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\bin\Debug\net9.0\BEmod2.deps.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\bin\Debug\net9.0\BEmod2.runtimeconfig.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\bin\Debug\net9.0\BEmod2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\bin\Debug\net9.0\BEmod2.pdb
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.AssemblyInfoInputs.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.AssemblyInfo.cs
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.csproj.CoreCompileInputs.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\refint\BEmod2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.pdb
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.genruntimeconfig.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\ref\BEmod2.dll
