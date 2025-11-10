@@ -12,3 +12,4 @@ C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\refint\BE
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.pdb
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.genruntimeconfig.cache
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\ref\BEmod2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.sourcelink.json

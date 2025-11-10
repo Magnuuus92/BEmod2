@@ -16,6 +16,10 @@ namespace Storage
                 throw new IndexOutOfRangeException("finner ikke index");
             return _items[index];
         }
+        public IEnumerable<T> GetAll()
+        {
+            return new List<T>(_items);
+        }
         public int Count => _items.Count;
         //RMV,RMVAT,CLR
         public bool Remove(T item)
