@@ -13,3 +13,22 @@ C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.pd
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.genruntimeconfig.cache
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\ref\BEmod2.dll
 C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\BEmod2\obj\Debug\net9.0\BEmod2.sourcelink.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\bin\Debug\net9.0\BEmod2.exe
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\bin\Debug\net9.0\BEmod2.deps.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\bin\Debug\net9.0\BEmod2.runtimeconfig.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\bin\Debug\net9.0\BEmod2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\bin\Debug\net9.0\BEmod2.pdb
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\bin\Debug\net9.0\Core.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\bin\Debug\net9.0\Core.pdb
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.csproj.AssemblyReference.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.AssemblyInfoInputs.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.AssemblyInfo.cs
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.csproj.CoreCompileInputs.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.sourcelink.json
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.csproj.Up2Date
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\refint\BEmod2.dll
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.pdb
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\BEmod2.genruntimeconfig.cache
+C:\Users\MMSor\Desktop\kodemappe-prosjekter\c#\xunit\Clone - Copy (4)\BEmod2\obj\Debug\net9.0\ref\BEmod2.dll
