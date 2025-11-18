@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MMSor\\Desktop\\kodemappe-prosjekter\\c#\\BEmod2\\BEmod2.csproj",
+      "projectUniqueName": "C:\\Users\\MMSor\\Desktop\\kodemappe-prosjekter\\c#\\xunit\\Clone\\BEmod2\\BEmod2.csproj",
       "projectName": "BEmod2",
-      "projectPath": "C:\\Users\\MMSor\\Desktop\\kodemappe-prosjekter\\c#\\BEmod2\\BEmod2.csproj",
+      "projectPath": "C:\\Users\\MMSor\\Desktop\\kodemappe-prosjekter\\c#\\xunit\\Clone\\BEmod2\\BEmod2.csproj",
       "packagesPath": "C:\\Users\\MMSor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MMSor\\Desktop\\kodemappe-prosjekter\\c#\\BEmod2\\obj\\",
+      "outputPath": "C:\\Users\\MMSor\\Desktop\\kodemappe-prosjekter\\c#\\xunit\\Clone\\BEmod2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MMSor\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BEmod2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb8c114e32a5023a76f31ca3aeac1bbfcfe756b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7ad855761112eb72b0836dd7f7865e74e41cc70")]
 [assembly: System.Reflection.AssemblyProductAttribute("BEmod2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BEmod2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
